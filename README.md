@@ -49,4 +49,4 @@ http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testac
 
 knalli's article draft: https://gist.github.com/kahlil/5245859#comment-807209
 
-Testtacular ist now Karma: https://github.com/karma-runner/karma
+Testacular ist now Karma: https://github.com/karma-runner/karma
