@@ -56,3 +56,5 @@ Cheat Sheet: http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 JSFiddle Examples: https://github.com/angular/angular.js/wiki/JSFiddle-Examples
 
 Angular UI Google Group: https://groups.google.com/forum/#!forum/angular-ui
+
+Communication between directives: http://thesmithfam.org/blog/2012/12/17/communicating-between-directives-in-angularjs/
