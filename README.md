@@ -1,7 +1,7 @@
 angular-resources
 =================
 
-A collection of resources that help you learn Angular.js.
+A collection of resources that help you learn Angular.js. Please send PRs if you have anything to add! <3
 
 http://docs.angularjs.org/tutorial
 
