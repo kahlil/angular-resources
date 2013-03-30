@@ -58,3 +58,9 @@ JSFiddle Examples: https://github.com/angular/angular.js/wiki/JSFiddle-Examples
 Angular UI Google Group: https://groups.google.com/forum/#!forum/angular-ui
 
 Communication between directives: http://thesmithfam.org/blog/2012/12/17/communicating-between-directives-in-angularjs/
+
+### Slides
+
+- [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2) by @petebacondarwin
+- [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/) by @PascalPrecht
+- [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/) by @PascalPrecht
