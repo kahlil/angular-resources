@@ -1,29 +1,73 @@
-angular-resources
-=================
+# Angular Resources
 
 A collection of resources that help you learn Angular.js. Please send PRs if you have anything to add! <3
 
-http://docs.angularjs.org/tutorial
+## From The Official Docs
 
-http://docs.angularjs.org/guide/
+[Tutorial](http://docs.angularjs.org/tutorial)
 
-http://egghead.io
+[Guide](http://docs.angularjs.org/guide/)
 
-https://www.youtube.com/user/johnlindquist
+## Videos
 
-http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/
+[Egghead.io](http://egghead.io)
 
-http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html
+[John Lindquist (Egghead.io) on Youtube](https://www.youtube.com/user/johnlindquist)
 
-https://www.youtube.com/angularjs
+[Angular.js Youtube Channel](https://www.youtube.com/angularjs)
 
-http://briantford.com/blog/
+[RailsCasts: Angular.js](http://railscasts.com/episodes/405-angularjs)
 
-https://github.com/CaryLandholt/AngularFun
+## Articles
 
-http://railscasts.com/episodes/405-angularjs
+[Angular.js for Developers](http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
 
-https://github.com/yeoman/generator-angular
+[Getting Started with Angular.js (Adobe)](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+
+[Briant Ford's blog](http://briantford.com/blog/)
+
+[Cary Landholt / AngularFun](https://github.com/CaryLandholt/AngularFun)
+
+[Angular.js on Google+](https://plus.google.com/u/0/+AngularJS/posts)
+
+[Using JSFiddle with Angular.js](http://pkozlowskios.wordpress.com/2012/08/12/using-jsfiddle-with-angularjs/)
+
+[AngularJS - Dependency Injection, Modules, and Services](http://roytruelove.blogspot.de/2012/09/angularjs-dependency-injection-modules.html)
+
+[Angular.js Communicating Between Controllers](http://onehungrymind.com/angularjs-communicating-between-controllers/)
+
+[Full-Spectrum Testing with Angular.js and Testacular](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
+
+[An tips and tricks article draft by @knalli](https://gist.github.com/kahlil/5245859#comment-807209)
+
+[Angular UI Google Group](https://groups.google.com/forum/#!forum/angular-ui)
+
+[Communication between directives](http://thesmithfam.org/blog/2012/12/17/communicating-between-directives-in-angularjs/)
+
+[Server-side Angular](https://github.com/ithkuil/angular-on-server/wiki/Running-AngularJS-on-the-server-with-Node.js-and-jsdom)
+
+## Code
+
+[Yeoman: generator-angular](https://github.com/yeoman/generator-angular)
+
+[Karma the new testrunner for Angular.js](https://github.com/karma-runner/karma)
+
+[JSFiddle Examples](https://github.com/angular/angular.js/wiki/JSFiddle-Examples)
+
+## Cheat Sheets
+
+[Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+
+<<<<<<< HEAD
+Server-side Angular: https://github.com/ithkuil/angular-on-server/wiki/Running-AngularJS-on-the-server-with-Node.js-and-jsdom
+=======
+## Slides
+
+- [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2) by @petebacondarwin
+- [AngularJS Insights](http://pascalprecht.github.com/slides/angularjs-insights/#/) by @PascalPrecht
+- [Mastering AngularJS Directives](http://pascalprecht.github.com/slides/mastering-angularjs-directives/) by @PascalPrecht
+
+## Insights
 
 @[knalli](http://github.com/knalli) says:
 
@@ -37,26 +81,4 @@ https://github.com/yeoman/generator-angular
 >
 > And: Don't forget Angular UI http://angular-ui.github.com/
 
-Hints, videos, articles: https://plus.google.com/u/0/+AngularJS/posts
-
-http://pkozlowskios.wordpress.com/2012/08/12/using-jsfiddle-with-angularjs/
-
-http://roytruelove.blogspot.de/2012/09/angularjs-dependency-injection-modules.html
-
-http://onehungrymind.com/angularjs-communicating-between-controllers/
-
-http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html
-
-knalli's article draft: https://gist.github.com/kahlil/5245859#comment-807209
-
-Testacular ist now Karma: https://github.com/karma-runner/karma
-
-Cheat Sheet: http://www.cheatography.com/proloser/cheat-sheets/angularjs/
-
-JSFiddle Examples: https://github.com/angular/angular.js/wiki/JSFiddle-Examples
-
-Angular UI Google Group: https://groups.google.com/forum/#!forum/angular-ui
-
-Communication between directives: http://thesmithfam.org/blog/2012/12/17/communicating-between-directives-in-angularjs/
-
-Server-side Angular: https://github.com/ithkuil/angular-on-server/wiki/Running-AngularJS-on-the-server-with-Node.js-and-jsdom
+>>>>>>> Update README.md
