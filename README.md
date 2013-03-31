@@ -54,6 +54,8 @@ A collection of resources that help you learn Angular.js. Please send PRs if you
 
 [JSFiddle Examples](https://github.com/angular/angular.js/wiki/JSFiddle-Examples)
 
+[ngmodules.org](http://ngmodules.org/)
+
 ## Cheat Sheets
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
