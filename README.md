@@ -58,9 +58,6 @@ A collection of resources that help you learn Angular.js. Please send PRs if you
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 
-<<<<<<< HEAD
-Server-side Angular: https://github.com/ithkuil/angular-on-server/wiki/Running-AngularJS-on-the-server-with-Node.js-and-jsdom
-=======
 ## Slides
 
 - [AngularJS - Extend your Browser](https://speakerdeck.com/petebd/devox-uk-2013-angularjs?slide=2) by @petebacondarwin
@@ -80,5 +77,3 @@ Server-side Angular: https://github.com/ithkuil/angular-on-server/wiki/Running-A
 > I'm working with AngularJS since October last year when we'd ported our app in a bigger rework process.
 >
 > And: Don't forget Angular UI http://angular-ui.github.com/
-
->>>>>>> Update README.md
