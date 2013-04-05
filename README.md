@@ -84,6 +84,10 @@ A comprehensive article on how directes can speak to each other in Angular.js.
 
 Deep dive into understanding directives.
 
+[Animation in AngularJS](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
+
+> Up until now, it was safe to say that native animations were not present in AngularJS. Well animation is here and yearofmoo is well prepared to hook you up. So lets take a look at how exactly make use of this great new feature with the world's best JavaScript MVC framework.
+
 ## Code
 
 [Yeoman: generator-angular](https://github.com/yeoman/generator-angular)
