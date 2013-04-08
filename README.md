@@ -110,6 +110,14 @@ A site that lists many modules for Angular.
 
 > AngularFun is an AngularJS large application Reference Architecture. The intent is to provide a base for creating your own AngularJS applications with minimal boilerplate setup and ceremony.
 
+[ngmin](https://github.com/btford/ngmin)
+
+Special Pre-Minifier for AngularJS
+ 
+This one tries to solve the problem compressing/uglifying code will break the dependency injection because of variable naming optimizations. Alternativley, you have to use a workaround defining an array with preceding injections. Sad to say, `ngmin` does not work with AMD (RequireJS) atm.
+
+Also available as a [grunt plugin}(https://github.com/btford/grunt-ngmin).
+
 ## Cheat Sheets
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
