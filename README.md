@@ -88,6 +88,10 @@ Deep dive into understanding directives.
 
 > Up until now, it was safe to say that native animations were not present in AngularJS. Well animation is here and yearofmoo is well prepared to hook you up. So lets take a look at how exactly make use of this great new feature with the world's best JavaScript MVC framework.
 
+[Angular Cats! An AngularJS Adventure Anthology](http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/)
+
+> Detailed step-by-step on how creating a real-word app with AngularJS. Shows progress and changes as he gets deeper in development.
+
 ## Code
 
 [Yeoman: generator-angular](https://github.com/yeoman/generator-angular)
