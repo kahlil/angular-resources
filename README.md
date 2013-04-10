@@ -52,9 +52,9 @@ Briant Ford writes a lot about Angular.js.
 
 [8 Tips for Angular.js Beginners](http://vxtindia.com/blog/8-tips-for-angular-js-beginners/)
 
-An excellent article for beginners on first days of AngularJS lerning. Here's a little quote:
-
 > We started working with Angular.js recently and after spending a few days on it, I realised that there a big need for beginner tutorials on it. I’ve tried to document some of the things you might need on day 1.
+
+An excellent article for beginners AngularJS.
 
 [Angular.js on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 
