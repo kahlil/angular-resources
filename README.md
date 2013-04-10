@@ -1,10 +1,6 @@
-# Angular Resources
-
-A collection of resources that help you learn Angular.js.
+## [This is](http://kahlil.github.io/angular-resources/) collection of resources that help you learn Angular.js.
 
 Please send PRs if you have anything to add! <3
-
-http://kahlil.github.io/angular-resources/
 
 ## From The Official Docs
 
