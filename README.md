@@ -114,6 +114,20 @@ A site that lists many modules for Angular.
 
 > AngularFun is an AngularJS large application Reference Architecture. The intent is to provide a base for creating your own AngularJS applications with minimal boilerplate setup and ceremony.
 
+## Books
+
+[AngularJS in Action (Early Access Edition)](http://www.manning.com/bford/)
+
+By Brian Ford and Lukas Ruebbelke
+
+> AngularJS in Action covers everything you need to know to get started with the AngularJS framework. As you read, you'll explore all the individual components of the framework and learn how to customize and extend them. You'll discover the emerging patterns for web application architecture and tackle required tasks like communicating with a web server back-end. Along the way, you'll see AngularJS in action by building real world applications with thoroughly-commented code.
+
+[AngularJS (Release: April 2013)](http://shop.oreilly.com/product/0636920028055.do)
+
+By Brad Green and Shyam Seshadri 
+
+> Guided by two engineers who worked on AngularJS at Google, you’ll walk through the framework’s key features, and then build a working AngularJS app—from layout to testing, compiling, and debugging. You’ll learn how AngularJS helps reduce the complexity of your web app. 
+
 ## Cheat Sheets
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
