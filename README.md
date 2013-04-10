@@ -118,7 +118,7 @@ A site that lists many modules for Angular.
 
 Special Pre-Minifier for AngularJS
 
-This one tries to solve the problem compressing/uglifying code will break the dependency injection because of variable naming optimizations. Alternativley, you have to use a workaround defining an array with preceding injections. Sad to say, `ngmin` does not work with AMD (RequireJS) atm.
+This one tries to solve the problem compressing/uglifying code will break the dependency injection because of variable naming optimizations. Alternatively, you have to use a workaround defining an array with preceding injections. Sad to say, `ngmin` does not work with AMD (RequireJS) atm.
 
 Also available as a [grunt plugin}(https://github.com/btford/grunt-ngmin).
 
