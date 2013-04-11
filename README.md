@@ -18,7 +18,7 @@ The starting point for diving into the Angular docs.
 
 [Egghead.io](http://egghead.io)
 
-John Lindquists site filled to the brim with short screencasts on how Angular works.
+John Lindquist's site filled to the brim with short screencasts on how Angular works.
 
 [John Lindquist (Egghead.io) on Youtube](https://www.youtube.com/user/johnlindquist)
 
