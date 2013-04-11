@@ -1,6 +1,6 @@
 A collection of resources that help you learn Angular.js.
 
-Please send PRs if you have anything to add! <3
+Please send PRs if you have anything to add! &hearts;
 
 ## From The Official Docs
 
