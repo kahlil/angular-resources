@@ -98,6 +98,10 @@ Deep dive into understanding directives.
 
 > Detailed step-by-step on how creating a real-word app with AngularJS. Shows progress and changes as he gets deeper in development.
 
+[Transclude](http://blog.omkarpatil.com/2012/11/transclude-in-angularjs.html)
+
+An article that explains transclusion.
+
 ## Code
 
 [Yeoman: generator-angular](https://github.com/yeoman/generator-angular)
