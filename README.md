@@ -102,6 +102,10 @@ Deep dive into understanding directives.
 
 An article that explains transclusion.
 
+[6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+
+> […] six main pitfalls when it comes to working with scopes in AngularJS. Six points which are actually easy if you understand the underlying concepts behind Angular.
+
 ## Code
 
 [Yeoman: generator-angular](https://github.com/yeoman/generator-angular)
