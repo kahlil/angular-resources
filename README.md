@@ -36,6 +36,8 @@ A screencast on Angular. Not free, though.
 
 A screencast on how controllers communicate in Angular.js
 
+[AngularJS G+ Hangouts](https://www.youtube.com/results?search_query=angularjs+hangout)
+
 ## Articles
 
 [Angular.js for Developers](http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
