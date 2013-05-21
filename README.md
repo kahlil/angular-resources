@@ -138,6 +138,11 @@ This one tries to solve the problem compressing/uglifying code will break the de
 
 Also available as a [grunt plugin](https://github.com/btford/grunt-ngmin).
 
+[Cool AngularJS Snippets](http://project-fifo.net/display/PF/Cool+AngularJS+Snippets)
+
+Small but useful collection of AngularJS snippets.
+
+
 ## Books
 
 [AngularJS in Action (Early Access Edition)](http://www.manning.com/bford/)
