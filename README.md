@@ -173,6 +173,12 @@ A great little introduction and teaser into Angular.
 
 Diving into directives.
 
+## Snippets
+
+[Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
+
+> A collection of Angular.js completions and snippets for JavaScript and HTML files. Be sure to read the README.
+
 ## Insights
 
 @[knalli](http://github.com/knalli) says:
