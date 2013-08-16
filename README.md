@@ -157,6 +157,14 @@ By Brad Green and Shyam Seshadri
 
 > Guided by two engineers who worked on AngularJS at Google, you’ll walk through the framework’s key features, and then build a working AngularJS app—from layout to testing, compiling, and debugging. You’ll learn how AngularJS helps reduce the complexity of your web app.
 
+## Updates: Newsletters & More
+
+[AngularJS Weekly](http://paper.li/RaminZamani/1366929635)
+> Every week, a nice summary of all AngularJS related content and news.
+
+[ng-newsletter](http://www.ng-newsletter.com/)
+> Weekly sent mail newsletter.
+
 ## Cheat Sheets
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
