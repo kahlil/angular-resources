@@ -142,6 +142,10 @@ Also available as a [grunt plugin](https://github.com/btford/grunt-ngmin).
 
 Small but useful collection of AngularJS snippets.
 
+[Currency Converter](http://www.programming-free.com/p/currency-converter-using-angularjs.html)
+
+Cool Currency Converter Application built using AngularJS with Tutorial.
+
 
 ## Books
 
