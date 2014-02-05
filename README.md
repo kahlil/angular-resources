@@ -32,7 +32,7 @@ This is Angular.js official Youtube channel with screencasts and talks.
 
 A screencast on Angular. Not free, though.
 
-[tagtree.tv](http://tagtree.tv)
+[Tagtree.tv](http://tagtree.tv)
 
 Tagtree has a couple of screencasts on Angular.js, particularly using it with YEOMAN and using it with D3/Rickshaw.
 
