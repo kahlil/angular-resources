@@ -1,3 +1,9 @@
+# Angular Resources
+
+**Attention:** This repo is ooooold. I am not maintaining it any more. If anybody wants to take it over let me know.
+
+---
+
 A collection of resources that help you learn Angular.js.
 
 Please send PRs if you have anything to add! &hearts;
