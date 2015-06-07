@@ -132,6 +132,10 @@ A list of jsFiddle examples.
 
 A site that lists many modules for Angular.
 
+[angular-js.in](http://angular-js.in/)
+
+A curated list of angular modules, directives and services.
+
 [Cary Landholt / AngularFun](https://github.com/CaryLandholt/AngularFun)
 
 > AngularFun is an AngularJS large application Reference Architecture. The intent is to provide a base for creating your own AngularJS applications with minimal boilerplate setup and ceremony.
