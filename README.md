@@ -178,6 +178,7 @@ By Brad Green and Shyam Seshadri
 ## Cheat Sheets
 
 [Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+[Angular Developer Roadmap](https://roadmap.sh/angular)
 
 ## Slides
 
